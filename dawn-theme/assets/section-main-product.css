@@ -13,6 +13,7 @@
 
 .product__media-wrapper {
   padding-left: 0;
+  border:3px solid green;
 }
 
 .product__info-wrapper {
@@ -345,6 +346,7 @@ a.product__text {
 
 .product .price__container {
   margin-bottom: 0.5rem;
+  color:red;
 }
 
 .product .price dl {
